@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO)
 
 # Pobieranie zmiennych środowiskowych
 # Uwaga: Używamy nazwy klucza z Railway (DISCORD_TOKEN)
-TOKEN = os.environ.get("MTUwODMyODEyMDExNjE4MzEwMg.Gp5IHP.dUNCVgWoUHmttJoAauhSmhZfsss5jr1NrCnXrs")
+TOKEN = os.environ.get("MTUwODMyODEyMDExNjE4MzEwMg.G-ePWa.8voRNngCu3j-hFSObrXbPI3c9QRhFmJ5snWgog")
 API_KEY = os.environ.get("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")
 
 # Inicjalizacja klienta Groq
