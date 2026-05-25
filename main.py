@@ -4,7 +4,7 @@ import asyncio
 import random
 
 # USTAWIENIA
-TOKEN = "MTQ2OTc4MDAzNzUzNTI3MzIxMw.GTQAnR.ZMVpdsGJkhuEl8Okj4Mllrz2jZ1a_D2dCianEg"
+TOKEN = "MTUwODMyODEyMDExNjE4MzEwMg.Gp5IHP.dUNCVgWoUHmttJoAauhSmhZfsss5jr1NrCnXrs"
 GROQ_API_KEY = "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"
 
 client = Groq(api_key=GROQ_API_KEY)
